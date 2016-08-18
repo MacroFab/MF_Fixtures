@@ -15,6 +15,7 @@ This project is under the [Creative Commons Attribution-ShareAlike 4.0 Internati
 
 | Directory | Description |
 |---|---|
+| FixtureOfFate | A fixture designed to hold MacroFab's 16"x16" prototype panels for Selective Solder. | 
 | JigOfDestiny | A fixture designed to hold MacroFab's 16"x16" prototype panels. | 
 
 ***
